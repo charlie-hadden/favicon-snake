@@ -206,5 +206,3 @@
 
     window.Snake = Snake;
 })(window);
-
-var snake = new Snake();
